@@ -1,0 +1,11 @@
+{
+  "name": "astros-jscom-path",
+  "version": "0.0.1",
+  "main": "astros-jscom-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!"
+}
